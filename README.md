@@ -21,7 +21,7 @@ The frontend offers a user-friendly experience with features like a book list vi
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/book-management-frontend.git
+    git clone https://github.com/veersaraf/book-management-frontend.git
     ```
 2. Navigate to the project directory:
     ```sh
